@@ -49,7 +49,7 @@
             <p>实习经历：杭州领克信息技术有限公司</p>
             <p>工作描述：编写mes中后台界面，维护基于各种开源项目的上层封装，使用echarts渲染图表</p>
             <p style="border-bottom: 1px solid #eee; padding-bottom: 20px">工作职责：基于element-ui封装内部组件，前端环境搭建，快速产出页面</p>
-            <p>代码实践：基于Vue 3 Function API封装中文多关键词搜索的可复用逻辑、基于Vue的美化滚动条、为元素可拖拽赋能的v-drag指令、参照koa洋葱模型实现的websocket封装以及对应的客户端、debounce、sleep等等工具函数，能基于Proxy实现响应式渲染库，并为其编写jsx插件，熟悉Vue的响应式原理以及组件渲染机制，对jsx有较大兴趣，会基本的部署流程，对Web Component有一定了解，能用原生js实现一些语言特性的polyfill，能用nodejs编写命令行程序。</p>
+            <p>代码实践：基于Vue 3 Function API封装中文多关键词搜索的可复用逻辑、基于Vue的美化滚动条、为元素可拖拽赋能的v-drag指令、参照koa洋葱模型实现的websocket封装以及对应的客户端、debounce、sleep等等工具函数，能基于Proxy实现响应式渲染库，并为其编写jsx插件，熟悉Vue的响应式原理以及组件渲染机制，对jsx有较大兴趣，会基本的部署流程，对Web Component有一定了解，能用原生js实现一些语言特性的polyfill，能用nodejs编写命令行程序，熟悉基本的git操作。</p>
           </div>
         </div>
         </transition>
